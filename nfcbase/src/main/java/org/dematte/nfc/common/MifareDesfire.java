@@ -14,6 +14,8 @@ import java.util.Arrays;
 
 /**
  * A class to wrap Mifare Desfire commands, using a generic "Communicator"
+ * 
+ * Commands and parameters from libfreefare (https://github.com/nfc-tools) 
  */
 public class MifareDesfire {
 
